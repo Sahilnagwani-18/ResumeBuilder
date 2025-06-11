@@ -24,10 +24,10 @@
     "styled-components": "^6.0.0"
   },
   "devDependencies": {},
-  "engines": {
-    "node": ">=18.0.0 <=22.x.x",
-    "npm": ">=6.0.0"
-  },
+ "engines": {
+  "node": ">=18.0.0 <=20.x.x",
+  "npm": ">=6.0.0"
+},
   "strapi": {
     "uuid": "3f59198d-e727-4147-a714-1b5419dd1437"
   }
