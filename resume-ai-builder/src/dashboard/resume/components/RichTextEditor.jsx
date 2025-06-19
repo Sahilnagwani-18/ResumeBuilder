@@ -1,7 +1,7 @@
 import { Button } from "@/components/ui/button";
 import { Brain, LoaderCircle } from "lucide-react";
 import React, { useContext, useState } from "react";
-import { ResumeInfoContext } from "@/context/ResumeinfoContext";
+import { ResumeInfoContext } from "@/context/ResumeInfoContext";
 import {
   BtnBold,
   BtnBulletList,

@@ -1,7 +1,7 @@
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
-import { ResumeInfoContext } from "@/context/ResumeinfoContext";
+import { ResumeInfoContext } from "@/context/ResumeInfoContext";
 import { Description } from "@radix-ui/react-dialog";
 import { LoaderCircle } from "lucide-react";
 import React, { useContext, useEffect, useState } from "react";

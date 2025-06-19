@@ -1,6 +1,6 @@
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
-import { ResumeInfoContext } from '@/context/ResumeinfoContext';
+import { ResumeInfoContext } from '@/context/ResumeInfoContext';
 import React, { useContext, useEffect, useState } from 'react'
 import { useParams } from 'react-router-dom';
 import GlobalApi from './../../../../../service/GlobalApi';
